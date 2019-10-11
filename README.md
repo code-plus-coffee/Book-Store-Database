@@ -7,6 +7,7 @@ This part of code performs _CURD_ (Create, Update, Read, Delete) operations on d
 ---
 
 Database: [Apache Derby](https://db.apache.org/derby/)
+
 IDE: [Netbeans](https://netbeans.org/)
 
 ---
